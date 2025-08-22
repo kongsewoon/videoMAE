@@ -3,3 +3,4 @@ finetuned_videomae_fusion_light_fire/
 finetuned_videomae_fusion_light_smoke/
 finetuned_videomae_fusion_light_down.tar
 videomae-api.tar
+test_videos/
