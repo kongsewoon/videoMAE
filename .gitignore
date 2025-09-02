@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+my-xclip.tar
+=======
+>>>>>>> Stashed changes
 finetuned_videomae_fusion_light_down/
 finetuned_videomae_fusion_light_fire/
 finetuned_videomae_fusion_light_smoke/
@@ -13,3 +19,7 @@ bank_params/
 *.zip
 __pycache__/
 .venv/
+<<<<<<< Updated upstream
+=======
+>>>>>>> 0a2a3e4dfedd47163ee81b4d4c16fbae657de041
+>>>>>>> Stashed changes
