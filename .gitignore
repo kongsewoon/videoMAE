@@ -4,3 +4,12 @@ finetuned_videomae_fusion_light_smoke/
 finetuned_videomae_fusion_light_down.tar
 videomae-api.tar
 test_videos/
+xclip_weights/
+bank_params/
+*.bin
+*.safetensors
+*.npz
+*.mp4
+*.zip
+__pycache__/
+.venv/
